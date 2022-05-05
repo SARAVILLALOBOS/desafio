@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: Arial;
     background: url(1.jpg) ;
+    height:2000px;
 }
 
 .menu{
@@ -42,6 +43,22 @@ nav {
     height: 100px;
     float: left;
 }
+.fa {
+  padding: 10px;
+  font-size: 10px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+
 .flexsearch--input {
     width: 50%;
   }   
